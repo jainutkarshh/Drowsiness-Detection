@@ -36,7 +36,7 @@ A real-time computer vision system that monitors driver alertness by analyzing f
 
 ## Installation
 
-### 1. Clone or download the repository
+### 1. Clone the repository
 
 Download the project to your local machine.
 
